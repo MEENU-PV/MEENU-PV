@@ -31,9 +31,9 @@ Here are a few projects that reflect my expertise and learning:
 ## Let's Connect
 
 I’m always excited to collaborate on innovative projects or simply chat about data science. Connect with me on:
-- **GitHub:** [GitHu](https://github.com/MEENU-PV)
+- **GitHub:** [GitHub](https://github.com/MEENU-PV)
 - **LinkedIn:** [LinkedInProfile](https://www.linkedin.com/in/meenupviswanadhan)
-- **Email:** [email](mailto:meenupviswanadhan.com)
+- **Email:** [Email](mailto:meenupviswanadhan.com)
 
 ---
 
